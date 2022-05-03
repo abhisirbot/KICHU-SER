@@ -45,7 +45,7 @@ Project created by <a href="https://github.com/Itsme-soman">KICHU-SER</a> to mak
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itsme-soman/KICHU-SER.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abhisirbot/KICHU-SER
 
 
 
